@@ -23,4 +23,3 @@ Older coursework repositories remain public as supporting learning history. Thei
 - Prefer transparent evidence over inflated claims
 - Treat data provenance, privacy, and reproducibility as part of the work
 - Keep employer-confidential code, data, procedures, and operational details out of public repositories
-
