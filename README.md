@@ -1,26 +1,33 @@
 # Rahul Nanduri
 
-I work at the intersection of **operations and technology**, with a practical interest in transportation, logistics, inventory, warehousing, fulfilment, and material operations.
+### Supply Chain Analytics | Transportation Intelligence | Automation | Systems
 
-My public technical work now includes a C#/.NET backend project alongside Python, data analysis, and automation. I am continuing to deepen my skills in ASP.NET Core, SQL, API design, testing, and dependable operations tooling. The goal is straightforward: turn operational problems into clear, maintainable technical solutions.
+I turn transportation and supply-chain operations problems into clear analytics, reliable automation, and maintainable systems. My work combines practical operations context with **SQL, Power BI, DAX, Python, and C#/.NET**.
 
-## Current focus
+My focus is the full decision path: define the operational question, model trustworthy data, reconcile the metrics, surface the right exceptions, and build tooling that supports action.
 
-- Building C#/.NET APIs around generic logistics and operations problems
-- Applying data and automation to operational workflows and decisions
-- Deepening software-engineering fundamentals through testing, persistence, and API design
-- Documenting provenance, validation, limitations, and privacy boundaries honestly
+## Flagship work
 
-## Selected public work
+1. [**Supply Chain Analytics Control Tower**](https://github.com/Rahulnanduri/supply-chain-analytics-control-tower) — a public-safe, synthetic transportation analytics project covering service, exceptions, carriers, lanes, cost, and capacity. It combines a deterministic 25,000-shipment dataset, DuckDB SQL, dimensional modelling, a genuine Power BI Project with explicit DAX measures, automated validation, and SQL-to-DAX reconciliation.
+2. [**Transportation Exception Management API**](https://github.com/Rahulnanduri/transportation-exception-management-api) — a C#/.NET 10 system modelling transportation exception intake, ownership, lifecycle rules, illustrative SLA reporting, SQLite persistence, OpenAPI, automated integration tests, and CI.
+3. [**HOME.LLC**](https://github.com/Rahulnanduri/HOME.LLC) — an educational housing analysis centred on chronological evaluation, leakage controls, reproducibility, dataset integrity, and honest limitations.
 
-- [**Transportation Exception Management API**](https://github.com/Rahulnanduri/transportation-exception-management-api) — an independent C#/.NET backend portfolio project modelling synthetic transportation exception intake, assignment, lifecycle management, illustrative SLA reporting, SQLite persistence, OpenAPI, automated tests, and CI.
-- [**HOME.LLC**](https://github.com/Rahulnanduri/HOME.LLC) — a repaired educational housing analysis with chronological evaluation, leakage controls, reproducibility documentation, and automated checks. Its small sample and data-provenance limits are stated explicitly.
-- [**Evaluation-Project**](https://github.com/Rahulnanduri/Evaluation-Project) — a preserved collection of historical data-science exercises, documented as learning history rather than validated production work.
+Together, these projects show the career through-line I am building:
 
-Older coursework repositories remain public as supporting learning history. Their READMEs distinguish stored historical outputs from results that have actually been reproduced.
+**Supply Chain Operations → Analytics → Automation → Systems**
+
+## Core capabilities
+
+- **Supply chain and transportation:** service performance, exceptions, carrier and lane analysis, cost, capacity, operational workflows
+- **Analytics:** SQL, Power BI, DAX, dimensional modelling, KPI design, metric reconciliation, data-quality testing
+- **Automation:** Python, deterministic data pipelines, validation tooling, reproducible reporting
+- **Systems:** C#/.NET, ASP.NET Core, EF Core, API design, persistence, automated testing, CI
 
 ## Working principles
 
 - Prefer transparent evidence over inflated claims
-- Treat data provenance, privacy, and reproducibility as part of the work
-- Keep employer-confidential code, data, procedures, and operational details out of public repositories
+- Treat data provenance, privacy, validation, and reproducibility as part of the work
+- Use synthetic or otherwise public-safe data for portfolio projects
+- Keep employer-confidential code, data, procedures, identifiers, and operational details out of public repositories
+
+Older coursework repositories remain available as supporting learning history; the three projects above represent my current portfolio direction.
