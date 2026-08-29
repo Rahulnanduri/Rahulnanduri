@@ -1,6 +1,6 @@
 # Rahul Nanduri
 
-### Supply Chain Analytics | Transportation Intelligence | Automation | Systems
+### Supply Chain & Transportation | Analytics | Automation | Systems
 
 I turn transportation and supply-chain operations problems into clear analytics, reliable automation, and maintainable systems. My work combines practical operations context with **SQL, Power BI, DAX, Python, and C#/.NET**.
 
